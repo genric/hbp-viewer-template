@@ -1,0 +1,6 @@
+options:
+  formatter: stylish
+  merge-default-rules: false
+
+rules:
+  indentation: 4

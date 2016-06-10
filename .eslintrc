@@ -1,0 +1,16 @@
+---
+  root: true
+  extends: eslint:recommended
+  env:
+    node: true
+  globals:
+    $: true
+    THREE: true
+    window: true
+    document: true
+  rules:
+    quotes:
+      - 2
+      - single
+    no-console: 1
+    no-unused-vars: 1

@@ -1,0 +1,25 @@
+{
+  "name": "hbp-viewer-template",
+  "description": "HBP Viewer template",
+  "main": "gulpfile.js",
+  "authors": [
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "^0.5.1",
+    "jquery": "^2.2.3",
+    "notifyjs": "^0.4.2",
+    "bbp-oidc-client": "^0.9.1",
+    "lodash": "^4.13.1"
+  }
+}
